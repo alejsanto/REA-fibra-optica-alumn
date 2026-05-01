@@ -1,0 +1,1449 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>base</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260501214206WS74YJ</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260501214206ZC89ZG</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>3.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>Montaje , preparación y fusión de fibra óptica alumnado</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>Alejandro Santolaria Olvián</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>base</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0-rc1</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1777536033193</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-mol72549-kw6p50t30</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Guía general</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Guía general</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Montaje, preparación y fusión de fibra óptica</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Guía general</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mol72549-kw6p50t30</odePageId>
+      <odeBlockId>block-1776797033057-eaet6vi0y</odeBlockId>
+      <blockName>Presentación</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mol72549-kw6p50t30</odePageId>
+          <odeBlockId>block-1776797033057-eaet6vi0y</odeBlockId>
+          <odeIdeviceId>idevice-1776797033053-wsv09hzrb</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>En esta actividad vamos a trabajar la fibra óptica de una manera práctica, aplicada y cercana a situaciones reales del ámbito profesional. A lo largo de las sesiones, iremos viendo los conceptos básicos, los materiales y herramientas que se utilizan, el procedimiento de trabajo y algunas normas importantes de seguridad. Además, todo lo que aprendamos en clase lo vais a transformar en productos digitales, para que no solo sepáis hacerlo, sino también explicarlo de forma clara y visual.</p>
+<p>Como producto final, trabajaréis en equipo para elaborar en <a href="https://www.canva.com/" title="">Canva</a> una infografía interactiva y un vídeo tutorial relacionados con la práctica realizada y con los contenidos trabajados sobre la preparación y fusión de la fibra óptica. Con estas tareas podréis reforzar lo aprendido, mejorar vuestra competencia digital y aprender a presentar información técnica de una forma más profesional, ordenada y útil, algo muy importante tanto en el aula como en vuestro futuro laboral.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776797033053-wsv09hzrb","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En esta actividad vamos a trabajar la fibra óptica de una manera práctica, aplicada y cercana a situaciones reales del ámbito profesional. A lo largo de las sesiones, iremos viendo los conceptos básicos, los materiales y herramientas que se utilizan, el procedimiento de trabajo y algunas normas importantes de seguridad. Además, todo lo que aprendamos en clase lo vais a transformar en productos digitales, para que no solo sepáis hacerlo, sino también explicarlo de forma clara y visual.</p>\n<p>Como producto final, trabajaréis en equipo para elaborar en <a href=\"https://www.canva.com/\" title=\"\">Canva</a> una infografía interactiva y un vídeo tutorial relacionados con la práctica realizada y con los contenidos trabajados sobre la preparación y fusión de la fibra óptica. Con estas tareas podréis reforzar lo aprendido, mejorar vuestra competencia digital y aprender a presentar información técnica de una forma más profesional, ordenada y útil, algo muy importante tanto en el aula como en vuestro futuro laboral.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mol72549-kw6p50t30</odePageId>
+      <odeBlockId>block-1776798375157-rhl692dlm</odeBlockId>
+      <blockName>¿Cómo vamos a trabajar?</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mol72549-kw6p50t30</odePageId>
+          <odeBlockId>block-1776798375157-rhl692dlm</odeBlockId>
+          <odeIdeviceId>idevice-1776798375154-esqwubxr0</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Durante esta actividad vamos a trabajar de forma práctica y organizada, combinando los contenidos teóricos con el trabajo en el aula-taller y la elaboración de productos digitales. En una primera sesión nos centraremos en los conocimientos básicos sobre la fibra óptica, para comprender mejor sus elementos, las herramientas que se utilizan y las fases del proceso de trabajo. En la segunda sesión, ya en un contexto más práctico, trabajaréis directamente con las dos fusionadoras disponibles en el aula, observando y realizando las distintas fases del procedimiento.</p>
+<p>Se trabajará en grupos de 3 personas, de manera que podáis participar de forma activa y aprovechar bien el material disponible. Mientras se desarrolla la práctica con las fusionadoras, iréis recogiendo información, imágenes y fases del proceso para poder elaborar después en Canva una infografía interactiva y un vídeo explicativo. De esta forma, además de aprender a realizar la práctica, también trabajaréis cómo documentarla y presentarla de manera clara y visual.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776798375154-esqwubxr0","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Durante esta actividad vamos a trabajar de forma práctica y organizada, combinando los contenidos teóricos con el trabajo en el aula-taller y la elaboración de productos digitales. En una primera sesión nos centraremos en los conocimientos básicos sobre la fibra óptica, para comprender mejor sus elementos, las herramientas que se utilizan y las fases del proceso de trabajo. En la segunda sesión, ya en un contexto más práctico, trabajaréis directamente con las dos fusionadoras disponibles en el aula, observando y realizando las distintas fases del procedimiento.</p>\n<p>Se trabajará en grupos de 3 personas, de manera que podáis participar de forma activa y aprovechar bien el material disponible. Mientras se desarrolla la práctica con las fusionadoras, iréis recogiendo información, imágenes y fases del proceso para poder elaborar después en Canva una infografía interactiva y un vídeo explicativo. De esta forma, además de aprender a realizar la práctica, también trabajaréis cómo documentarla y presentarla de manera clara y visual.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mol72549-kw6p50t30</odePageId>
+      <odeBlockId>block-1776798553563-36y8b9mbi</odeBlockId>
+      <blockName>Temporalización</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mol72549-kw6p50t30</odePageId>
+          <odeBlockId>block-1776798553563-36y8b9mbi</odeBlockId>
+          <odeIdeviceId>idevice-1776798553561-m7ryah8fa</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>La actividad se desarrollará en <strong>dos sesiones</strong> de 120 minutos cada una de ellas:</p>
+<p><strong>Sesión 1: </strong>Introducción teórica al conformado de fibra óptica:</p>
+<ul>
+<li>Explicación de los conceptos básicos sobre la fibra óptica.</li>
+<li>Identificación de materiales, herramientas y elementos principales.</li>
+<li>Análisis de las fases del procedimiento del trabajo en el taller y durante el desarrollo de los recursos digitales.<br /></li>
+</ul>
+<p><strong>Sesión 2: </strong>Trabajo práctico con fusionadoras y recopilación del material para la realización de los recursos digitales:</p>
+<ul>
+<li>Organización del grupo y reparto de tareas.</li>
+<li>Uso de las dos fusionadoras disponibles en el taller.</li>
+<li>Observación y realización de las distintas fases del proceso de conformado y fusionado de fibra óptica identificando sus partes.</li>
+<li>Recogida de imágenes, información y pasos del procedimiento.</li>
+<li>Selección de material necesario para elaborar la infografía y el video tutorial.</li>
+</ul>
+<p></p>
+<p><strong>Trabajo final: </strong>Con la información recogida en la sesiones, deberéis realizar en Canva:</p>
+<ul>
+<li><strong>INFOGRAFÍA INTERACITCA</strong></li>
+<li><strong>VÍDEO TUTORIAL</strong></li>
+</ul>
+<p></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776798553561-m7ryah8fa","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>La actividad se desarrollará en <strong>dos sesiones</strong> de 120 minutos cada una de ellas:</p>\n<p><strong>Sesión 1: </strong>Introducción teórica al conformado de fibra óptica:</p>\n<ul>\n<li>Explicación de los conceptos básicos sobre la fibra óptica.</li>\n<li>Identificación de materiales, herramientas y elementos principales.</li>\n<li>Análisis de las fases del procedimiento del trabajo en el taller y durante el desarrollo de los recursos digitales.<br /></li>\n</ul>\n<p><strong>Sesión 2: </strong>Trabajo práctico con fusionadoras y recopilación del material para la realización de los recursos digitales:</p>\n<ul>\n<li>Organización del grupo y reparto de tareas.</li>\n<li>Uso de las dos fusionadoras disponibles en el taller.</li>\n<li>Observación y realización de las distintas fases del proceso de conformado y fusionado de fibra óptica identificando sus partes.</li>\n<li>Recogida de imágenes, información y pasos del procedimiento.</li>\n<li>Selección de material necesario para elaborar la infografía y el video tutorial.</li>\n</ul>\n<p></p>\n<p><strong>Trabajo final: </strong>Con la información recogida en la sesiones, deberéis realizar en Canva:</p>\n<ul>\n<li><strong>INFOGRAFÍA INTERACITCA</strong></li>\n<li><strong>VÍDEO TUTORIAL</strong></li>\n</ul>\n<p></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mol72549-kw6p50t30</odePageId>
+      <odeBlockId>block-1776799621248-ic95itx33</odeBlockId>
+      <blockName>Productos digitales a elaborar</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>3</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mol72549-kw6p50t30</odePageId>
+          <odeBlockId>block-1776799621248-ic95itx33</odeBlockId>
+          <odeIdeviceId>idevice-1776799621245-t2684rq51</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>1. Infografía interactiva en Canva</strong></p>
+<ul style="list-style-type: square;">
+<li>Relacionada con la práctica realizada, relacionando los contenidos trabajados en la primera sesión.</li>
+<li>Deberá presentar la información fotográfica y descriptiva de forma clara visual y ordenada<br /></li>
+<li>Incluirá además u código QR que redireccione vuestra infografía al video tutorial creado.</li>
+</ul>
+<p><br /></p>
+<p><strong>2. Video Tutorial en Canva</strong></p>
+<ul style="list-style-type: square;">
+<li>Deberá mostrar o explicar las fases del proceso, los materiales utilizados o las ideas más importantes trabajadas en clase.</li>
+<li>Tendrá un formato claro, breve y bien organizado.</li>
+<li>Deberá contener algún corte que diferencie cada una de las frases del proceso de conformado y fusionado de la fibra óptica.<br /></li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776799621245-t2684rq51","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>1. Infografía interactiva en Canva</strong></p>\n<ul style=\"list-style-type: square;\">\n<li>Relacionada con la práctica realizada, relacionando los contenidos trabajados en la primera sesión.</li>\n<li>Deberá presentar la información fotográfica y descriptiva de forma clara visual y ordenada<br /></li>\n<li>Incluirá además u código QR que redireccione vuestra infografía al video tutorial creado.</li>\n</ul>\n<p><br /></p>\n<p><strong>2. Video Tutorial en Canva</strong></p>\n<ul style=\"list-style-type: square;\">\n<li>Deberá mostrar o explicar las fases del proceso, los materiales utilizados o las ideas más importantes trabajadas en clase.</li>\n<li>Tendrá un formato claro, breve y bien organizado.</li>\n<li>Deberá contener algún corte que diferencie cada una de las frases del proceso de conformado y fusionado de la fibra óptica.<br /></li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mol72549-kw6p50t30</odePageId>
+      <odeBlockId>block-1776800512006-girdv4jy1</odeBlockId>
+      <blockName>Entrega</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>4</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mol72549-kw6p50t30</odePageId>
+          <odeBlockId>block-1776800512006-girdv4jy1</odeBlockId>
+          <odeIdeviceId>idevice-1776800512004-4s21b6jv5</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>Entrega de la infografía interactiva: </strong><br /></p>
+<p>Se entregará en la carpeta denominada <a href="https://educastur.sharepoint.com/:f:/r/sites/Infraestructurascomunesdetelecomunicacinenviviendasye_g8hxcl/Documentos%20compartidos/General/Memorias%20pr%C3%A1cticas/Entrega%20REA%20Fibra%20%C3%B3ptica/Infograf%C3%ADa%20interactiva?csf=1&web=1&e=SuzWSC" title="">infografía interactiva</a> de la plataforma educativa Teams:</p>
+<ul>
+<li>En formato pptx</li>
+<li>El nombre del archivo será: SdA_FO_Apellido1_Nombre1_Apellido2_Nombre2_Apellido3_Nombre3.pptx</li>
+</ul>
+<p><strong>Entrega del vídeo tutorial:</strong></p>
+<p>Se entregará en la carpeta denominada <a href="https://educastur.sharepoint.com/:f:/r/sites/Infraestructurascomunesdetelecomunicacinenviviendasye_g8hxcl/Documentos%20compartidos/General/Memorias%20pr%C3%A1cticas/Entrega%20REA%20Fibra%20%C3%B3ptica/Video%20tutorial?csf=1&web=1&e=rpDjzS" title="">video tutorial</a> de la plataforma educativa Teams:</p>
+<ul>
+<li>En formato mp4</li>
+<li>El nombre del archivo será SdA_FO_Apellido1_Nombre1_Apellido2_Nombre2_Apellido3_Nombre3.mp4</li>
+</ul>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776800512004-4s21b6jv5","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>Entrega de la infografía interactiva: </strong><br /></p>\n<p>Se entregará en la carpeta denominada <a href=\"https://educastur.sharepoint.com/:f:/r/sites/Infraestructurascomunesdetelecomunicacinenviviendasye_g8hxcl/Documentos%20compartidos/General/Memorias%20pr%C3%A1cticas/Entrega%20REA%20Fibra%20%C3%B3ptica/Infograf%C3%ADa%20interactiva?csf=1&web=1&e=SuzWSC\" title=\"\">infografía interactiva</a> de la plataforma educativa Teams:</p>\n<ul>\n<li>En formato pptx</li>\n<li>El nombre del archivo será: SdA_FO_Apellido1_Nombre1_Apellido2_Nombre2_Apellido3_Nombre3.pptx</li>\n</ul>\n<p><strong>Entrega del vídeo tutorial:</strong></p>\n<p>Se entregará en la carpeta denominada <a href=\"https://educastur.sharepoint.com/:f:/r/sites/Infraestructurascomunesdetelecomunicacinenviviendasye_g8hxcl/Documentos%20compartidos/General/Memorias%20pr%C3%A1cticas/Entrega%20REA%20Fibra%20%C3%B3ptica/Video%20tutorial?csf=1&web=1&e=rpDjzS\" title=\"\">video tutorial</a> de la plataforma educativa Teams:</p>\n<ul>\n<li>En formato mp4</li>\n<li>El nombre del archivo será SdA_FO_Apellido1_Nombre1_Apellido2_Nombre2_Apellido3_Nombre3.mp4</li>\n</ul>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mol72549-kw6p50t30</odePageId>
+      <odeBlockId>block-1776800537657-4eky6tgkr</odeBlockId>
+      <blockName>Evaluación</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>5</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mol72549-kw6p50t30</odePageId>
+          <odeBlockId>block-1776800537657-4eky6tgkr</odeBlockId>
+          <odeIdeviceId>idevice-1776800537655-k4o0lomx7</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: center;"><em><strong>RÚBRICA ACTIVIDAD PRÁCTICA</strong></em><br /></p>
+<p style="text-align: center;"><img src="{{context_path}}/content/resources/mceclip0.png" width="1278" height="956" alt="" /><br /></p>
+<p style="text-align: center;"><br /></p>
+<p style="text-align: center;"><em><strong>RÚBRICA INFOGRAFÍA INTERACTIVA</strong></em></p>
+<p style="text-align: center;"><em><strong><img src="{{context_path}}/content/resources/mceclip1.png" /></strong></em></p>
+<p style="text-align: center;"><em><strong></strong></em><br /></p>
+<p style="text-align: center;"><em><strong>RÚBRICA VIDEO TUTORIAL</strong></em></p>
+<p style="text-align: center;"><em><strong><img src="{{context_path}}/content/resources/mceclip0_1.png" /></strong></em><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776800537655-k4o0lomx7","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: center;\"><em><strong>RÚBRICA ACTIVIDAD PRÁCTICA</strong></em><br /></p>\n<p style=\"text-align: center;\"><img src=\"{{context_path}}/content/resources/mceclip0.png\" width=\"1278\" height=\"956\" alt=\"\" /><br /></p>\n<p style=\"text-align: center;\"><br /></p>\n<p style=\"text-align: center;\"><em><strong>RÚBRICA INFOGRAFÍA INTERACTIVA</strong></em></p>\n<p style=\"text-align: center;\"><em><strong><img src=\"{{context_path}}/content/resources/mceclip1.png\" /></strong></em></p>\n<p style=\"text-align: center;\"><em><strong></strong></em><br /></p>\n<p style=\"text-align: center;\"><em><strong>RÚBRICA VIDEO TUTORIAL</strong></em></p>\n<p style=\"text-align: center;\"><em><strong><img src=\"{{context_path}}/content/resources/mceclip0_1.png\" /></strong></em><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mol7254h-xye2o2m16</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Sesión 1: Explicación teórica y uso de recursos digitales</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Sesión 1: Explicación teórica y uso de recursos digitales</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Sesión 1: Explicación teórica y uso de recursos digitales</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mol7254h-xye2o2m16</odePageId>
+      <odeBlockId>block-1776939484683-1be9qe3kb</odeBlockId>
+      <blockName>Introducción</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mol7254h-xye2o2m16</odePageId>
+          <odeBlockId>block-1776939484683-1be9qe3kb</odeBlockId>
+          <odeIdeviceId>idevice-1776939484678-g3p431wxw</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>En esta primera sesión se trabajarán los contenidos teóricos básicos sobre la fibra óptica, que servirán de base para comprender mejor la práctica que se realizará posteriormente en el aula-taller. Además, se presentarán los productos digitales que habrá que elaborar al final de la actividad y se explicará cómo incorporar un código QR como elemento interactivo dentro de la infografía</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776939484678-g3p431wxw","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En esta primera sesión se trabajarán los contenidos teóricos básicos sobre la fibra óptica, que servirán de base para comprender mejor la práctica que se realizará posteriormente en el aula-taller. Además, se presentarán los productos digitales que habrá que elaborar al final de la actividad y se explicará cómo incorporar un código QR como elemento interactivo dentro de la infografía</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mol7254h-xye2o2m16</odePageId>
+      <odeBlockId>block-1776939512678-jtcqy0r2f</odeBlockId>
+      <blockName>Sesión de 120 minutos</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mol7254h-xye2o2m16</odePageId>
+          <odeBlockId>block-1776939512678-jtcqy0r2f</odeBlockId>
+          <odeIdeviceId>idevice-1776939512676-v6zehwc6k</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>En esta sesión se trabajarán los siguientes puntos:</strong></p>
+<ul>
+<li>Presentación de la actividad y de los productos finales que deberá elaborar el alumnado.</li>
+<li>Explicación de los contenidos teóricos básicos sobre la fibra óptica.</li>
+<li>Identificación de los elementos, materiales y herramientas relacionados con la práctica.</li>
+<li>Análisis de las fases principales del procedimiento de trabajo que se desarrollará en el aula-taller. Demostración por parte del profesor/a</li>
+<li>Entrega de guion para la realización de infografía interactiva y video tutorial.</li>
+<li>Orientaciones para seleccionar la información más importante que después se incorporará a la infografía y al vídeo.</li>
+<li title="">Explicación de cómo generar un código QR con <a href="https://www.qrcode-monkey.com/es/?utm_source=google_c&utm_medium=cpc&utm_campaign=&utm_content=&utm_term=qr%20monkey_e&gad_source=1&gad_campaignid=13540879331&gbraid=0AAAAADwMzZRHMVO0ozH1UK0T4vDTfIsnf&gclid=CjwKCAjwhqfPBhBWEiwAZo196pjKQnwmUn9_MYESY36sqmhnd8_H44nlNFp16DU3r-mdVoYt4rx7ORoCk4QQAvD_BwE">QRcodemonkey</a> para incorporarlo a la infografía interactiva.</li>
+</ul>
+<p></p>
+<p><strong>Al finalizar la sesión, los alumnos/as deberán:</strong></p>
+<ul>
+<li>Comprender los contenidos básicos trabajados sobre fibra óptica.</li>
+<li>Reconocer los elementos y fases principales del proceso</li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776939512676-v6zehwc6k","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>En esta sesión se trabajarán los siguientes puntos:</strong></p>\n<ul>\n<li>Presentación de la actividad y de los productos finales que deberá elaborar el alumnado.</li>\n<li>Explicación de los contenidos teóricos básicos sobre la fibra óptica.</li>\n<li>Identificación de los elementos, materiales y herramientas relacionados con la práctica.</li>\n<li>Análisis de las fases principales del procedimiento de trabajo que se desarrollará en el aula-taller. Demostración por parte del profesor/a</li>\n<li>Entrega de guion para la realización de infografía interactiva y video tutorial.</li>\n<li>Orientaciones para seleccionar la información más importante que después se incorporará a la infografía y al vídeo.</li>\n<li title=\"\">Explicación de cómo generar un código QR con <a href=\"https://www.qrcode-monkey.com/es/?utm_source=google_c&utm_medium=cpc&utm_campaign=&utm_content=&utm_term=qr%20monkey_e&gad_source=1&gad_campaignid=13540879331&gbraid=0AAAAADwMzZRHMVO0ozH1UK0T4vDTfIsnf&gclid=CjwKCAjwhqfPBhBWEiwAZo196pjKQnwmUn9_MYESY36sqmhnd8_H44nlNFp16DU3r-mdVoYt4rx7ORoCk4QQAvD_BwE\">QRcodemonkey</a> para incorporarlo a la infografía interactiva.</li>\n</ul>\n<p></p>\n<p><strong>Al finalizar la sesión, los alumnos/as deberán:</strong></p>\n<ul>\n<li>Comprender los contenidos básicos trabajados sobre fibra óptica.</li>\n<li>Reconocer los elementos y fases principales del proceso</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mol7254i-j63rvppxs</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Sesión 2: Desarrollo práctico en aula-taller y creación de productos digitales</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Sesión 2: Desarrollo práctico en aula-taller y creación de productos digitales</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Sesión 2:</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Sesión 2: Desarrollo práctico en aula-taller y creación de productos digitales</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mol7254i-j63rvppxs</odePageId>
+      <odeBlockId>block-1777536289198-ks01et64v</odeBlockId>
+      <blockName>Introducción</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mol7254i-j63rvppxs</odePageId>
+          <odeBlockId>block-1777536289198-ks01et64v</odeBlockId>
+          <odeIdeviceId>idevice-1777536289193-r741alun1</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>En esta segunda sesión se desarrollará la parte práctica de la actividad en el aula-taller, centrada en la fusión de fibra óptica. Además, el alumnado recogerá el material necesario para documentar el proceso realizado y poder utilizarlo posteriormente en la elaboración de la infografía interactiva y del vídeo tutorial. A partir de la práctica y de la información recopilada, también se iniciará el trabajo de diseño y montaje de ambos productos digitales mediante el uso del ordenador.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777536289193-r741alun1","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En esta segunda sesión se desarrollará la parte práctica de la actividad en el aula-taller, centrada en la fusión de fibra óptica. Además, el alumnado recogerá el material necesario para documentar el proceso realizado y poder utilizarlo posteriormente en la elaboración de la infografía interactiva y del vídeo tutorial. A partir de la práctica y de la información recopilada, también se iniciará el trabajo de diseño y montaje de ambos productos digitales mediante el uso del ordenador.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mol7254i-j63rvppxs</odePageId>
+      <odeBlockId>block-1777536568696-9q49g15e0</odeBlockId>
+      <blockName>Sesión de 120 minutos</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mol7254i-j63rvppxs</odePageId>
+          <odeBlockId>block-1777536568696-9q49g15e0</odeBlockId>
+          <odeIdeviceId>idevice-1777536568694-wgwftq0mk</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>En esta sesión se trabajarán los siguientes puntos:</strong></p>
+<ul>
+<li>Organización del grupo y preparación del material necesario para la práctica.</li>
+<li>Desarrollo de las actividades prácticas en el aula-taller relacionadas con la fusión de fibra óptica.</li>
+<li>Observación y realización de las distintas fases del procedimiento de trabajo.</li>
+<li>Uso de las dos fusionadoras disponibles en el aula.</li>
+<li>Recogida de imágenes, videos, información y evidencias del proceso realizado para el desarrollo de la infografía interactiva y del video tutorial.</li>
+<li>Inicio de la elaboración de la infografía interactiva a partir del material recopilado.</li>
+<li>Inicio de la elaboración del vídeo tutorial mediante el uso del ordenador.</li>
+<li>Organización de la información y del material visual para dar forma a los productos finales.</li>
+</ul>
+<p></p>
+<p><strong>Al finalizar la sesión, los alumnos/as deberán:</strong></p>
+<ul>
+<li>Haber participado activamente en la práctica de fusión de fibra óptica.</li>
+<li>Reconocer las fases principales del proceso trabajado en el aula-taller.</li>
+<li>Disponer de imágenes, información y material suficiente para documentar la práctica.</li>
+<li>Haber seleccionado parte del contenido que se incorporará a la infografía y al vídeo.</li>
+<li>Haber comenzado la elaboración en ordenadores del centro de la infografía interactiva y del vídeo tutorial.</li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777536568694-wgwftq0mk","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>En esta sesión se trabajarán los siguientes puntos:</strong></p>\n<ul>\n<li>Organización del grupo y preparación del material necesario para la práctica.</li>\n<li>Desarrollo de las actividades prácticas en el aula-taller relacionadas con la fusión de fibra óptica.</li>\n<li>Observación y realización de las distintas fases del procedimiento de trabajo.</li>\n<li>Uso de las dos fusionadoras disponibles en el aula.</li>\n<li>Recogida de imágenes, videos, información y evidencias del proceso realizado para el desarrollo de la infografía interactiva y del video tutorial.</li>\n<li>Inicio de la elaboración de la infografía interactiva a partir del material recopilado.</li>\n<li>Inicio de la elaboración del vídeo tutorial mediante el uso del ordenador.</li>\n<li>Organización de la información y del material visual para dar forma a los productos finales.</li>\n</ul>\n<p></p>\n<p><strong>Al finalizar la sesión, los alumnos/as deberán:</strong></p>\n<ul>\n<li>Haber participado activamente en la práctica de fusión de fibra óptica.</li>\n<li>Reconocer las fases principales del proceso trabajado en el aula-taller.</li>\n<li>Disponer de imágenes, información y material suficiente para documentar la práctica.</li>\n<li>Haber seleccionado parte del contenido que se incorporará a la infografía y al vídeo.</li>\n<li>Haber comenzado la elaboración en ordenadores del centro de la infografía interactiva y del vídeo tutorial.</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777537110761-awp6o1adg</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Pautas para la realización de la infografía interactiva y video tutorial</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Pautas para la realización de la infografía interactiva y video tutorial</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777537110761-awp6o1adg</odePageId>
+      <odeBlockId>block-1777537119554-na7t040vv</odeBlockId>
+      <blockName>Infografía interactiva</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777537110761-awp6o1adg</odePageId>
+          <odeBlockId>block-1777537119554-na7t040vv</odeBlockId>
+          <odeIdeviceId>idevice-1777537119552-nscgl9ocz</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>En el equipo Infraestructuras comunes de telecomunicaciones de Microsoft Teams, dentro de la carpeta REA fibra óptica aparecerá una carpeta denominada infografía interactiva. </p>
+<p>Dentro de esta carpeta se encuentra el <a href="https://educastur.sharepoint.com/:b:/s/Infraestructurascomunesdetelecomunicacinenviviendasye_g8hxcl/IQC1AWueVqo4QJNYe2IkdEOYAXMworwVHyE5sL_xayP2Emk?e=qpzYtg" title="">guion para la realización de la infografía interactiva</a> que deberéis seguir para el desarrollo de este documento interactivo</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777537119552-nscgl9ocz","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En el equipo Infraestructuras comunes de telecomunicaciones de Microsoft Teams, dentro de la carpeta REA fibra óptica aparecerá una carpeta denominada infografía interactiva. </p>\n<p>Dentro de esta carpeta se encuentra el <a href=\"https://educastur.sharepoint.com/:b:/s/Infraestructurascomunesdetelecomunicacinenviviendasye_g8hxcl/IQC1AWueVqo4QJNYe2IkdEOYAXMworwVHyE5sL_xayP2Emk?e=qpzYtg\" title=\"\">guion para la realización de la infografía interactiva</a> que deberéis seguir para el desarrollo de este documento interactivo</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1777537110761-awp6o1adg</odePageId>
+      <odeBlockId>block-1777537516286-gphw8ytb0</odeBlockId>
+      <blockName>Video tutorial</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777537110761-awp6o1adg</odePageId>
+          <odeBlockId>block-1777537516286-gphw8ytb0</odeBlockId>
+          <odeIdeviceId>idevice-1777537516281-c1lvpinmd</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>En el equipo Infraestructuras comunes de telecomunicaciones de Microsoft Teams, dentro de la carpeta REA fibra óptica aparecerá una carpeta denominada video tutorial.</p>
+<p>Dentro de esta carpeta se encuentra el <a href="https://educastur.sharepoint.com/:b:/s/Infraestructurascomunesdetelecomunicacinenviviendasye_g8hxcl/IQAPWgUr0yTTT6k0joVitUEDARAoAIG39ArOWd4bU6XHfNQ?e=jl3xvT" title="">guion para la realización del video tutorial </a>que deberéis seguir para el desarrollo de este recurso digital.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777537516281-c1lvpinmd","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En el equipo Infraestructuras comunes de telecomunicaciones de Microsoft Teams, dentro de la carpeta REA fibra óptica aparecerá una carpeta denominada video tutorial.</p>\n<p>Dentro de esta carpeta se encuentra el <a href=\"https://educastur.sharepoint.com/:b:/s/Infraestructurascomunesdetelecomunicacinenviviendasye_g8hxcl/IQAPWgUr0yTTT6k0joVitUEDARAoAIG39ArOWd4bU6XHfNQ?e=jl3xvT\" title=\"\">guion para la realización del video tutorial </a>que deberéis seguir para el desarrollo de este recurso digital.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777538177804-0uys1kv2r</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Material de apoyo</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Material de apoyo</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777538177804-0uys1kv2r</odePageId>
+      <odeBlockId>block-1777538727016-ww0966qsw</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777538177804-0uys1kv2r</odePageId>
+          <odeBlockId>block-1777538727016-ww0966qsw</odeBlockId>
+          <odeIdeviceId>idevice-1777538727013-69o0v59cu</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>En las siguientes secciones tenéis a vuestra disposición varios materiales de ayuda para seguir mejor la actividad y resolver dudas durante el trabajo. Encontrarás un vídeo tutorial sobre el fusionado de fibra óptica, catálogos comerciales para consultar materiales y equipos, actividades de repaso para reforzar los contenidos más importantes y un glosario con términos básicos que te servirán de apoyo tanto en la práctica como en la elaboración de los productos digitales.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777538727013-69o0v59cu","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En las siguientes secciones tenéis a vuestra disposición varios materiales de ayuda para seguir mejor la actividad y resolver dudas durante el trabajo. Encontrarás un vídeo tutorial sobre el fusionado de fibra óptica, catálogos comerciales para consultar materiales y equipos, actividades de repaso para reforzar los contenidos más importantes y un glosario con términos básicos que te servirán de apoyo tanto en la práctica como en la elaboración de los productos digitales.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777538294277-bcxsjxvhk</odePageId>
+  <odeParentPageId>page-1777538177804-0uys1kv2r</odeParentPageId>
+  <pageName>Conformado y fusionado de FO</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Conformado y fusionado de FO</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777538294277-bcxsjxvhk</odePageId>
+      <odeBlockId>block-1777538819404-2q5djws88</odeBlockId>
+      <blockName>Enlaces hacia video tutoriales de fusionado de fibra óptica</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777538294277-bcxsjxvhk</odePageId>
+          <odeBlockId>block-1777538819404-2q5djws88</odeBlockId>
+          <odeIdeviceId>idevice-1777538819401-r3xuvlg8z</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Podréis consultar algunos vídeos relacionados con la práctica de fibra óptica, que te servirán como referencia para comprender mejor el proceso de trabajo desarrollado en el aula-taller. Estos materiales te ayudarán a identificar las fases principales del fusionado, observar el uso de herramientas y equipos, y tomar ideas para la elaboración de la infografía interactiva y del vídeo tutorial que realizarás como producto final de esta actividad:</p>
+<p>- <a href="https://www.youtube.com/watch?v=z4BVzXFxo50" title="">Fusión de fibra con fusionadora PROMAX</a></p>
+<p>- <a href="https://www.youtube.com/watch?v=I60GJQfdBdY" title="">Fusión de fibra óptica con fusionadora INNO IFS-15S</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777538819401-r3xuvlg8z","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Podréis consultar algunos vídeos relacionados con la práctica de fibra óptica, que te servirán como referencia para comprender mejor el proceso de trabajo desarrollado en el aula-taller. Estos materiales te ayudarán a identificar las fases principales del fusionado, observar el uso de herramientas y equipos, y tomar ideas para la elaboración de la infografía interactiva y del vídeo tutorial que realizarás como producto final de esta actividad:</p>\n<p>- <a href=\"https://www.youtube.com/watch?v=z4BVzXFxo50\" title=\"\">Fusión de fibra con fusionadora PROMAX</a></p>\n<p>- <a href=\"https://www.youtube.com/watch?v=I60GJQfdBdY\" title=\"\">Fusión de fibra óptica con fusionadora INNO IFS-15S</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777538320720-cb2naiqp2</odePageId>
+  <odeParentPageId>page-1777538177804-0uys1kv2r</odeParentPageId>
+  <pageName>Catálogos comerciales</pageName>
+  <odeNavStructureOrder>7</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Catálogos comerciales</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777538320720-cb2naiqp2</odePageId>
+      <odeBlockId>block-1777539295309-hfadyxq5b</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777538320720-cb2naiqp2</odePageId>
+          <odeBlockId>block-1777539295309-hfadyxq5b</odeBlockId>
+          <odeIdeviceId>idevice-1777539295308-7vj2mpekq</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Para el apartado en el que se deben elegir los materiales y elementos que forman parte de la ejecución del conformado y fusionado de fibra óptica; y para reconocer mejor los elementos que aparecerán en el video, podrás acceder desde los siguientes enlaces a los catálogos comerciales de las principales empresas que trabajan con material para instalaciones de telecomunicaciones:</p>
+<ul style="list-style-type: square;">
+<li><a href="https://educastur.sharepoint.com/:b:/s/Infraestructurascomunesdetelecomunicacinenviviendasye_g8hxcl/IQABIUbY0dvIQb8V23cxnyldAZ9THW-_KCeWu981A4yya6M?e=v8hWA7" title="">Catálogo comercial FTE</a></li>
+<li><a href="https://educastur.sharepoint.com/:b:/s/Infraestructurascomunesdetelecomunicacinenviviendasye_g8hxcl/IQC0NHTuvVZVRIi-3ejXHTUPARdJZ2lMvDCyqFzRoq61tnY?e=MhB9By" title="">Catálogo comercial Ikusi</a></li>
+<li><a href="https://educastur.sharepoint.com/:b:/s/Infraestructurascomunesdetelecomunicacinenviviendasye_g8hxcl/IQCB2-w84fBzTq7NYRfR42ERAbDOIKCkeadXicv8yH996uo?e=9hcVTw" title="">Catálogo comercial Televés</a></li>
+</ul>
+<p></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777539295308-7vj2mpekq","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Para el apartado en el que se deben elegir los materiales y elementos que forman parte de la ejecución del conformado y fusionado de fibra óptica; y para reconocer mejor los elementos que aparecerán en el video, podrás acceder desde los siguientes enlaces a los catálogos comerciales de las principales empresas que trabajan con material para instalaciones de telecomunicaciones:</p>\n<ul style=\"list-style-type: square;\">\n<li><a href=\"https://educastur.sharepoint.com/:b:/s/Infraestructurascomunesdetelecomunicacinenviviendasye_g8hxcl/IQABIUbY0dvIQb8V23cxnyldAZ9THW-_KCeWu981A4yya6M?e=v8hWA7\" title=\"\">Catálogo comercial FTE</a></li>\n<li><a href=\"https://educastur.sharepoint.com/:b:/s/Infraestructurascomunesdetelecomunicacinenviviendasye_g8hxcl/IQC0NHTuvVZVRIi-3ejXHTUPARdJZ2lMvDCyqFzRoq61tnY?e=MhB9By\" title=\"\">Catálogo comercial Ikusi</a></li>\n<li><a href=\"https://educastur.sharepoint.com/:b:/s/Infraestructurascomunesdetelecomunicacinenviviendasye_g8hxcl/IQCB2-w84fBzTq7NYRfR42ERAbDOIKCkeadXicv8yH996uo?e=9hcVTw\" title=\"\">Catálogo comercial Televés</a></li>\n</ul>\n<p></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777538336309-d2zd8s6a5</odePageId>
+  <odeParentPageId>page-1777538177804-0uys1kv2r</odeParentPageId>
+  <pageName>Actividades de repaso</pageName>
+  <odeNavStructureOrder>8</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Actividades de repaso</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777538336309-d2zd8s6a5</odePageId>
+      <odeBlockId>block-1777539974616-fwxksw1i7</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777538336309-d2zd8s6a5</odePageId>
+          <odeBlockId>block-1777539974616-fwxksw1i7</odeBlockId>
+          <odeIdeviceId>idevice-1777539974612-r7a5rggai</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Realiza varias actividades sencillas de repaso que te ayudarán a reforzar los contenidos trabajados sobre fibra óptica, los materiales y herramientas utilizados y las fases del proceso de conformado y fusión de fibra óptica</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777539974612-r7a5rggai","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Realiza varias actividades sencillas de repaso que te ayudarán a reforzar los contenidos trabajados sobre fibra óptica, los materiales y herramientas utilizados y las fases del proceso de conformado y fusión de fibra óptica</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1777538336309-d2zd8s6a5</odePageId>
+      <odeBlockId>block-1777543051604-of6fbqnes</odeBlockId>
+      <blockName>Empareja cada término con su definición</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777538336309-d2zd8s6a5</odePageId>
+          <odeBlockId>block-1777543051604-of6fbqnes</odeBlockId>
+          <odeIdeviceId>idevice-1777543051600-i4tr7l5uz</odeIdeviceId>
+          <odeIdeviceTypeName>relate</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="relaciona-IDevice"><div class="relaciona-instructions gameQP-instructions"><p>Relaciona cada tarjeta con su pareja.</p></div><div class="relaciona-DataGame js-hidden">{"typeGame":"Relaciona","author":"","randomCards":true,"instructions":"<p>Relaciona cada tarjeta con su pareja.</p>","showMinimize":false,"itinerary":{"showClue":false,"clueGame":"","percentageClue":40,"showCodeAccess":false,"codeAccess":"","messageCodeAccess":""},"cardsGame":[{"url":"","x":0,"y":0,"author":"","alt":"","audio":"","color":"#000000","backcolor":"#ffffff","eText":"Cubierta%20externa","urlBk":"","xBk":0,"yBk":0,"authorBk":"","altBk":"","audioBk":"","colorBk":"#000000","backcolorBk":"#ffffff","eTextBk":"Capa%20m%C3%A1s%20exterior%20del%20cable%2C%20encargada%20de%20proteger%20el%20conjunto%20frente%20a%20agentes%20externos%20y%20da%C3%B1os%20mec%C3%A1nicos"},{"url":"","x":0,"y":0,"author":"","alt":"","audio":"","color":"#000000","backcolor":"#ffffff","eText":"Estructura%20de%20Kevlar","urlBk":"","xBk":0,"yBk":0,"authorBk":"","altBk":"","audioBk":"","colorBk":"#000000","backcolorBk":"#ffffff","eTextBk":"Elemento%20de%20refuerzo%20que%20aporta%20resistencia%20mec%C3%A1nica%20al%20cable%20y%20ayuda%20a%20soportar%20esfuerzos%20de%20tracci%C3%B3n"},{"url":"","x":0,"y":0,"author":"","alt":"","audio":"","color":"#000000","backcolor":"#ffffff","eText":"Buffer","urlBk":"","xBk":0,"yBk":0,"authorBk":"","altBk":"","audioBk":"","colorBk":"#000000","backcolorBk":"#ffffff","eTextBk":"Capa%20de%20protecci%C3%B3n%20que%20rodea%20la%20firba%20y%20facilita%20su%20manipulaci%C3%B3n%20durante%20los%20trabajos%20de%20instalaci%C3%B3n%20y%20preparaci%C3%B3n"},{"url":"","x":0,"y":0,"author":"","alt":"","audio":"","color":"#000000","backcolor":"#ffffff","eText":"Revestimiento%20","urlBk":"","xBk":0,"yBk":0,"authorBk":"","altBk":"","audioBk":"","colorBk":"#000000","backcolorBk":"#ffffff","eTextBk":"Capa%20que%20rodea%20al%20n%C3%BAcleo%20y%20permite%20que%20la%20luz%20se%20mantenga%20guiada%20por%20el%20interior%20de%20la%20fibra"},{"url":"","x":0,"y":0,"author":"","alt":"","audio":"","color":"#000000","backcolor":"#ffffff","eText":"N%C3%BAcleo","urlBk":"","xBk":0,"yBk":0,"authorBk":"","altBk":"","audioBk":"","colorBk":"#000000","backcolorBk":"#ffffff","eTextBk":"Parte%20central%20de%20la%20fibra%20%C3%B3ptica%20por%20la%20que%20se%20transmite%20la%20se%C3%B1al%20luminosa"}],"isScorm":0,"textButtonScorm":"Guardar la puntuación","repeatActivity":true,"weighted":100,"textAfter":"","version":2,"percentajeCards":100,"type":0,"showSolution":true,"timeShowSolution":3,"time":3,"evaluation":false,"evaluationID":"07d20682-d84e-4fad-8ab9-f2d754fb73d3","id":"idevice-1777543051600-i4tr7l5uz","msgs":{"msgSubmit":"Enviar","msgClue":"¡Genial! La pista es:","msgCodeAccess":"Código de acceso","msgPlayStart":"Pulsa aquí para jugar","msgScore":"Puntuación","msgErrors":"Errores","msgHits":"Aciertos","msgMinimize":"Minimizar","msgMaximize":"Maximizar","msgFullScreen":"Pantalla Completa","msgExitFullScreen":"Salir del modo pantalla completa","msgNoImage":"Pregunta sin imágenes","msgEndGameScore":"Comience la partida antes de guardar la puntuación.","msgScoreScorm":"La puntuación no se puede guardar porque esta página no forma parte  de un paquete SCORM.","msgOnlySaveScore":"¡Solo puede guardar la puntuación una vez!","msgOnlySave":"Solo puede guardar una vez","msgInformation":"Información","msgYouScore":"Su puntuación","msgAuthor":"Autoría","msgOnlySaveAuto":"Su puntuación se guardará después de cada pregunta. Solo puede jugar una vez.","msgSaveAuto":"Su puntuación se guardará automáticamente después de cada pregunta.","msgSeveralScore":"Puede guardar la puntuación tantas veces como quiera","msgYouLastScore":"La última puntuación guardada es","msgActityComply":"Ya ha realizado esta actividad.","msgPlaySeveralTimes":"Puede realizar esta actividad cuantas veces quiera","msgClose":"Cerrar","msgAudio":"Audio","msgNumQuestions":"Número de tarjetas","msgTryAgain":"Necesitas al menos %s% de respuestas correctas para obtener la información. Inténtalo de nuevo.","msgEndGameM":"Has completado el juego. Tu puntuación es %s.","msgUncompletedActivity":"Actividad no completada","msgSuccessfulActivity":"Actividad superada. Puntuación: %s","msgUnsuccessfulActivity":"Actividad no superada. Puntuación: %s","msgTypeGame":"Relaciona","msgCheck":"Comprobar","msgRestart":"Reiniciar"}}</div><div class="game-evaluation-ids js-hidden" data-id="idevice-1777543051600-i4tr7l5uz" data-evaluationb="false" data-evaluationid="07d20682-d84e-4fad-8ab9-f2d754fb73d3"></div><div class="relaciona-bns js-hidden">Su navegador no es compatible con esta herramienta.</div></div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1777538336309-d2zd8s6a5</odePageId>
+      <odeBlockId>block-1777543757542-cqfa4n66v</odeBlockId>
+      <blockName>Verdadero o falso</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777538336309-d2zd8s6a5</odePageId>
+          <odeBlockId>block-1777543757542-cqfa4n66v</odeBlockId>
+          <odeIdeviceId>idevice-1777543757539-ldiw8p1fj</odeIdeviceId>
+          <odeIdeviceTypeName>trueorfalse</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-trueorfalse-container">
+  
+    <div class="game-evaluation-ids js-hidden" data-id="idevice-1777543757539-ldiw8p1fj" data-evaluationb="false" data-evaluationid="07d20682-d84e-4fad-8ab9-f2d754fb73d3"></div>
+        <div class="TOFP-instructions"><p>Responde todas las preguntas del cuestionario.</p></div>
+        <div class="TOFP-MainContainer" data-instance="idevice-1777543757539-ldiw8p1fj" id="tofPMainContainer-idevice-1777543757539-ldiw8p1fj">
+            <div class="TOFP-GameContainer" id="tofPGameContainer-idevice-1777543757539-ldiw8p1fj">
+                <div class="TOFP-GameScoreBoard TOFP-EHidden">
+                    <div class="TOFP-TimeNumber">
+                        <strong><span class="sr-av">Tiempo por pregunta:</span></strong>
+                        <p id="tofPPTime-idevice-1777543757539-ldiw8p1fj" class="TOFP-PTime">00:00:</p>
+                    </div>
+                </div>
+                <div class="TOFP-MessgeDiv" id="tofPMessageDiv-idevice-1777543757539-ldiw8p1fj">
+                    <div class="TOFP-Message" id="tofPMessage-idevice-1777543757539-ldiw8p1fj"></div>
+                </div>
+                <div class="TOFP-StartGameDiv TOFP-EHidden" id="tofPStartGameDiv-idevice-1777543757539-ldiw8p1fj">
+                    <button  id="tofPStartGame-idevice-1777543757539-ldiw8p1fj" type="button" class="btn btn-primary">Pulsa aquí para empezar</button>
+                </div>
+                <div class="TOFP-Multimedia " id="tofPMultimedia-idevice-1777543757539-ldiw8p1fj">
+                </div>
+                <div class="TOFP-CheckTestDiv TOFP-EHidden" id="tofPCheckTestDiv-idevice-1777543757539-ldiw8p1fj">
+                    <button id="tofPCheckTest-idevice-1777543757539-ldiw8p1fj" type="button" class="btn btn-primary">Comprobar</button>
+                    <button id="tofRebootTest-idevice-1777543757539-ldiw8p1fj" type="button" class="btn btn-primary TOFP-EHidden">¡Prueba otra vez!</button>
+                </div>
+        </div> 
+        <div class="Games-BottonContainer">
+            <div class="Games-GetScore">
+                <input id="tofPSendScore-idevice-1777543757539-ldiw8p1fj" type="button" value="Guardar la puntuación" class="feedbackbutton Games-SendScore" style="display:none"/> <span class="Games-RepeatActivity"></span>
+            </div>
+        </div>
+        <div class="TOFP-After"></div>
+        <div class="questionsMedia" style="display:none"></div>
+</div>
+]]></htmlView>
+          <jsonProperties><![CDATA[{"id":"idevice-1777543757539-ldiw8p1fj","typeGame":"TrueOrFalse","eXeGameInstructions":"<p>Responde todas las preguntas del cuestionario.</p>","eXeIdeviceTextAfter":"","msgs":{"msgStartGame":"Pulsa aquí para empezar","msgTime":"Tiempo por pregunta","msgNoImage":"Pregunta sin imágenes","msgScoreScorm":"La puntuación no se puede guardar porque esta página no forma parte  de un paquete SCORM.","msgEndGameScore":"Comience la partida antes de guardar la puntuación.","msgOnlySaveScore":"¡Solo puede guardar la puntuación una vez!","msgOnlySave":"Solo puede guardar una vez","msgYouScore":"Su puntuación","msgAuthor":"Autoría","msgOnlySaveAuto":"Su puntuación se guardará después de cada pregunta. Solo puede jugar una vez.","msgSaveAuto":"Su puntuación se guardará automáticamente después de cada pregunta.","msgSeveralScore":"Puede guardar la puntuación tantas veces como quiera","msgYouLastScore":"La última puntuación guardada es","msgActityComply":"Ya ha realizado esta actividad.","msgPlaySeveralTimes":"Puede realizar esta actividad cuantas veces quiera","msgUncompletedActivity":"Actividad no completada","msgSuccessfulActivity":"Actividad superada. Puntuación: %s","msgUnsuccessfulActivity":"Actividad no superada. Puntuación: %s","msgTypeGame":"Verdadero o falso","msgFeedback":"Retroalimentación","msgSuggestion":"Sugerencia","msgSolution":"Solución","msgQuestion":"Pregunta","msgTrue":"Verdadero","msgFalse":"Falso","msgOk":"Correcto","msgKO":"Incorrecto","msgShow":"Mostrar","msgHide":"Ocultar","msgCheck":"Comprobar","msgReboot":"¡Prueba otra vez!","msgScore":"Puntuación","msgWeight":"Peso","msgNext":"Siguiente","msgPrevious":"Anterior"},"questionsRandom":false,"percentageQuestions":100,"isTest":false,"time":0,"questionsGame":[{"question":"<p>La acometida que llega a cada PAU de un usuario de un edificio de viviendas consta de 2 fibras ópticas</p>","feedback":"","suggestion":"","solution":1},{"question":"<p>El diámetro del buffer normalmente ronda las 400 micras</p>","feedback":"","suggestion":"","solution":0},{"question":"<p>En la red interior de usuario siempre se van a utilizar cables de fibra óptica de estructura holgada</p>","feedback":"","suggestion":"","solution":0},{"question":"<p>La secuencia de colores para la ordenación de las fibras de un cable de estructura holgada de 8 fibras es:</p>\n<p>verde, rojo, azul, amarillo, gris, violeta, marrón, naranja</p>","feedback":"","suggestion":"","solution":1},{"question":"<p>La fibra óptica multimodo necesita dos fibras para establecer una comunicación bidireccional</p>","feedback":"","suggestion":"","solution":1},{"question":"<p>El termoretráctil que protege la fusión de fibra óptica ha de colocarse antes de realizar la fusión</p>","feedback":"","suggestion":"","solution":1}],"isScorm":0,"textButtonScorm":"Guardar la puntuación","repeatActivity":true,"weighted":100,"evaluation":false,"evaluationID":"07d20682-d84e-4fad-8ab9-f2d754fb73d3","showSlider":false,"ideviceId":"idevice-1777543757539-ldiw8p1fj"}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777538346317-ah540vwb1</odePageId>
+  <odeParentPageId>page-1777538177804-0uys1kv2r</odeParentPageId>
+  <pageName>Glosario de términos</pageName>
+  <odeNavStructureOrder>9</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Glosario de términos</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777538346317-ah540vwb1</odePageId>
+      <odeBlockId>block-1777658312730-5fgwqd7m2</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777538346317-ah540vwb1</odePageId>
+          <odeBlockId>block-1777658312730-5fgwqd7m2</odeBlockId>
+          <odeIdeviceId>idevice-1777658312726-0ofe4snq8</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <ul>
+<li><strong>Fibra óptica: </strong>Medio de transmisión formado por hilos muy finos de vidrio o plástico que permiten enviar información mediante pulsos de luz.</li>
+<li><strong>Fibra monomodo</strong>: Tipo de fibra óptica que permite la propagación de un único modo de luz. Se utiliza en largas distancias y ofrece muy baja atenuación.</li>
+<li><strong>Fibra multimodo</strong>: Tipo de fibra óptica por la que se propagan varios modos de luz al mismo tiempo. Se utiliza normalmente en distancias más cortas.</li>
+<li><strong>Núcleo</strong>: Parte central de la fibra óptica por la que viaja la señal luminosa.</li>
+<li><strong>Revestimiento</strong>: Capa que rodea al núcleo y que hace posible que la luz se mantenga guiada en el interior de la fibra.</li>
+<li><strong>Buffer</strong>: Capa de protección que rodea la fibra y facilita su manipulación durante los trabajos de preparación e instalación.</li>
+<li><strong>Cubierta exterior</strong>: Capa más exterior del cable, encargada de proteger el conjunto frente a golpes, humedad, rozaduras y otros agentes externos.</li>
+<li><strong>Kevlar:</strong> Material de refuerzo mecánico que se incorpora en muchos cables de fibra óptica para aumentar su resistencia a la tracción.</li>
+<li><strong>Estructura ajustada</strong>: Tipo de construcción del cable en la que el recubrimiento protector queda muy próximo a la fibra, facilitando su manejo en interiores.</li>
+<li><strong>Estructura holgada</strong>: Tipo de construcción en la que una o varias fibras se alojan dentro de un tubo con mayor libertad de movimiento, ofreciendo mejor protección en ciertas instalaciones.</li>
+<li><strong>Acometida:</strong> Tramo de instalación que conecta la red general de telecomunicaciones con el punto de entrada del usuario o del edificio.</li>
+<li><strong>Pigtail:</strong> Latiguillo corto de fibra óptica con un conector en un extremo y la fibra libre en el otro, utilizado para empalmes por fusión.</li>
+<li><strong>Latiguillo:</strong> Cable corto de fibra óptica terminado con conectores en sus extremos, utilizado para interconectar equipos o paneles.</li>
+<li><strong>Peladora de fibra óptica:</strong> Herramienta utilizada para retirar con precisión las cubiertas y recubrimientos de la fibra antes del corte y la fusión.</li>
+<li><strong>Cortadora de fibra óptica:</strong> Herramienta que permite realizar un corte limpio y preciso de la fibra para prepararla antes del fusionado.</li>
+<li><strong>Fusionadora:</strong> Equipo utilizado para unir dos fibras ópticas mediante un arco eléctrico, alineándolas con precisión para minimizar pérdidas.</li>
+<li><strong>Fusión:</strong> Proceso de unión permanente de dos fibras ópticas mediante calor, con el objetivo de conseguir continuidad en la transmisión de la señal.</li>
+<li><strong>Manguito de protección: </strong>Elemento que se coloca sobre la zona fusionada para proteger el empalme frente a esfuerzos mecánicos y agentes externos.</li>
+<li><strong>Empalme:</strong> Unión entre dos fibras ópticas. Puede realizarse por fusión o mediante otros métodos mecánicos.</li>
+<li><strong>Atenuación:</strong> Pérdida de potencia de la señal luminosa a medida que se transmite por la fibra óptica.</li>
+<li><strong>Radio de curvatura:</strong> Curvatura mínima que puede soportar una fibra o un cable sin que se produzcan daños o pérdidas excesivas de señal.</li>
+<li><strong>Conector de fibra óptica:</strong> Elemento que permite conectar y desconectar fibras ópticas de equipos, paneles o latiguillos de forma rápida y precisa.</li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777658312726-0ofe4snq8","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<ul>\n<li><strong>Fibra óptica: </strong>Medio de transmisión formado por hilos muy finos de vidrio o plástico que permiten enviar información mediante pulsos de luz.</li>\n<li><strong>Fibra monomodo</strong>: Tipo de fibra óptica que permite la propagación de un único modo de luz. Se utiliza en largas distancias y ofrece muy baja atenuación.</li>\n<li><strong>Fibra multimodo</strong>: Tipo de fibra óptica por la que se propagan varios modos de luz al mismo tiempo. Se utiliza normalmente en distancias más cortas.</li>\n<li><strong>Núcleo</strong>: Parte central de la fibra óptica por la que viaja la señal luminosa.</li>\n<li><strong>Revestimiento</strong>: Capa que rodea al núcleo y que hace posible que la luz se mantenga guiada en el interior de la fibra.</li>\n<li><strong>Buffer</strong>: Capa de protección que rodea la fibra y facilita su manipulación durante los trabajos de preparación e instalación.</li>\n<li><strong>Cubierta exterior</strong>: Capa más exterior del cable, encargada de proteger el conjunto frente a golpes, humedad, rozaduras y otros agentes externos.</li>\n<li><strong>Kevlar:</strong> Material de refuerzo mecánico que se incorpora en muchos cables de fibra óptica para aumentar su resistencia a la tracción.</li>\n<li><strong>Estructura ajustada</strong>: Tipo de construcción del cable en la que el recubrimiento protector queda muy próximo a la fibra, facilitando su manejo en interiores.</li>\n<li><strong>Estructura holgada</strong>: Tipo de construcción en la que una o varias fibras se alojan dentro de un tubo con mayor libertad de movimiento, ofreciendo mejor protección en ciertas instalaciones.</li>\n<li><strong>Acometida:</strong> Tramo de instalación que conecta la red general de telecomunicaciones con el punto de entrada del usuario o del edificio.</li>\n<li><strong>Pigtail:</strong> Latiguillo corto de fibra óptica con un conector en un extremo y la fibra libre en el otro, utilizado para empalmes por fusión.</li>\n<li><strong>Latiguillo:</strong> Cable corto de fibra óptica terminado con conectores en sus extremos, utilizado para interconectar equipos o paneles.</li>\n<li><strong>Peladora de fibra óptica:</strong> Herramienta utilizada para retirar con precisión las cubiertas y recubrimientos de la fibra antes del corte y la fusión.</li>\n<li><strong>Cortadora de fibra óptica:</strong> Herramienta que permite realizar un corte limpio y preciso de la fibra para prepararla antes del fusionado.</li>\n<li><strong>Fusionadora:</strong> Equipo utilizado para unir dos fibras ópticas mediante un arco eléctrico, alineándolas con precisión para minimizar pérdidas.</li>\n<li><strong>Fusión:</strong> Proceso de unión permanente de dos fibras ópticas mediante calor, con el objetivo de conseguir continuidad en la transmisión de la señal.</li>\n<li><strong>Manguito de protección: </strong>Elemento que se coloca sobre la zona fusionada para proteger el empalme frente a esfuerzos mecánicos y agentes externos.</li>\n<li><strong>Empalme:</strong> Unión entre dos fibras ópticas. Puede realizarse por fusión o mediante otros métodos mecánicos.</li>\n<li><strong>Atenuación:</strong> Pérdida de potencia de la señal luminosa a medida que se transmite por la fibra óptica.</li>\n<li><strong>Radio de curvatura:</strong> Curvatura mínima que puede soportar una fibra o un cable sin que se produzcan daños o pérdidas excesivas de señal.</li>\n<li><strong>Conector de fibra óptica:</strong> Elemento que permite conectar y desconectar fibras ópticas de equipos, paneles o latiguillos de forma rápida y precisa.</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777662928126-f3nld6l4t</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Atribución y fichero descargable</pageName>
+  <odeNavStructureOrder>10</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Atribución y fichero descargable</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777662928126-f3nld6l4t</odePageId>
+      <odeBlockId>block-1777662970807-2nj0nrho5</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777662928126-f3nld6l4t</odePageId>
+          <odeBlockId>block-1777662970807-2nj0nrho5</odeBlockId>
+          <odeIdeviceId>idevice-1777662970803-zcilhu3vi</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <table border="1" height="133" style="width: 53.7856%; height: 163.333px; margin-left: auto; margin-right: auto;">
+<tbody>
+<tr style="height: 32.6667px;">
+<td colspan="2" style="width: 99.9454%; text-align: center; height: 32.6667px;"><em>Información general sobre este recurso educativo</em><br /></td>
+</tr>
+<tr style="height: 32.6667px;">
+<td style="width: 25.564%; background-color: #95a5a6; height: 32.6667px;"><strong>Título</strong><br /></td>
+<td style="width: 74.3814%; background-color: #ecf0f1; height: 32.6667px;">Montaje, preparación y fusión de fibra óptica alumnado</td>
+</tr>
+<tr style="height: 32.6667px;">
+<td style="width: 25.564%; background-color: #ecf0f1; height: 32.6667px;"><strong>Descripción</strong></td>
+<td style="width: 74.3814%; background-color: #ecf0f1; height: 32.6667px;">-</td>
+</tr>
+<tr style="height: 32.6667px;">
+<td style="width: 25.564%; background-color: #95a5a6; height: 32.6667px;"><strong>Autoría</strong><br /></td>
+<td style="width: 74.3814%; background-color: #ecf0f1; height: 32.6667px;">Alejandro Santolaria Oliván</td>
+</tr>
+<tr style="height: 32.6667px;">
+<td style="width: 25.564%; background-color: #ecf0f1; height: 32.6667px;"><strong>Licencia</strong><br /></td>
+<td style="width: 74.3814%; background-color: #ecf0f1; height: 32.6667px;">creative commons: attribution-share alike 4.0</td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">Este contenido fue creado con eXeleraning, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777662970803-zcilhu3vi","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<table border=\"1\" height=\"133\" style=\"width: 53.7856%; height: 163.333px; margin-left: auto; margin-right: auto;\">\n<tbody>\n<tr style=\"height: 32.6667px;\">\n<td colspan=\"2\" style=\"width: 99.9454%; text-align: center; height: 32.6667px;\"><em>Información general sobre este recurso educativo</em><br /></td>\n</tr>\n<tr style=\"height: 32.6667px;\">\n<td style=\"width: 25.564%; background-color: #95a5a6; height: 32.6667px;\"><strong>Título</strong><br /></td>\n<td style=\"width: 74.3814%; background-color: #ecf0f1; height: 32.6667px;\">Montaje, preparación y fusión de fibra óptica alumnado</td>\n</tr>\n<tr style=\"height: 32.6667px;\">\n<td style=\"width: 25.564%; background-color: #ecf0f1; height: 32.6667px;\"><strong>Descripción</strong></td>\n<td style=\"width: 74.3814%; background-color: #ecf0f1; height: 32.6667px;\">-</td>\n</tr>\n<tr style=\"height: 32.6667px;\">\n<td style=\"width: 25.564%; background-color: #95a5a6; height: 32.6667px;\"><strong>Autoría</strong><br /></td>\n<td style=\"width: 74.3814%; background-color: #ecf0f1; height: 32.6667px;\">Alejandro Santolaria Oliván</td>\n</tr>\n<tr style=\"height: 32.6667px;\">\n<td style=\"width: 25.564%; background-color: #ecf0f1; height: 32.6667px;\"><strong>Licencia</strong><br /></td>\n<td style=\"width: 74.3814%; background-color: #ecf0f1; height: 32.6667px;\">creative commons: attribution-share alike 4.0</td>\n</tr>\n</tbody>\n</table>\n<p style=\"text-align: center;\">Este contenido fue creado con eXeleraning, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
